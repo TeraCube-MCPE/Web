@@ -1,4 +1,4 @@
- ![readme-image2](https://teracube.eu/storage/img/github.png) 
+ ![readme-image2](https://capybara.fun/teracube/logo.png) 
 # 🛡 TeraCube Website
 
 Ancien site web de TeraCube MCPE.
