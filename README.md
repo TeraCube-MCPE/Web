@@ -1,4 +1,4 @@
- ![readme-image2](https://teracube.eu/storage/img/logo.png | width=100) 
+ ![readme-image2](https://teracube.eu/storage/img/logo.png) 
 # 🛡 TeraCube Website
 
 Ancien site web de TeraCube MCPE.
